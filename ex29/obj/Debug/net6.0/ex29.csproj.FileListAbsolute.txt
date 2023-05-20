@@ -1,0 +1,15 @@
+C:\Study\C#\home_work4\ex29\bin\Debug\net6.0\ex29.exe
+C:\Study\C#\home_work4\ex29\bin\Debug\net6.0\ex29.deps.json
+C:\Study\C#\home_work4\ex29\bin\Debug\net6.0\ex29.runtimeconfig.json
+C:\Study\C#\home_work4\ex29\bin\Debug\net6.0\ex29.dll
+C:\Study\C#\home_work4\ex29\bin\Debug\net6.0\ex29.pdb
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.csproj.AssemblyReference.cache
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.AssemblyInfoInputs.cache
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.AssemblyInfo.cs
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.dll
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\refint\ex29.dll
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.pdb
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ex29.genruntimeconfig.cache
+C:\Study\C#\home_work4\ex29\obj\Debug\net6.0\ref\ex29.dll
